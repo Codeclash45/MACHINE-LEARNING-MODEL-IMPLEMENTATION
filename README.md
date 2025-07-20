@@ -12,7 +12,7 @@ MENTOR : NEELA SANTOSH
 
 DESCRIPTION :
 
-Project Title: Spam Email Detection with Scikit-learn
+# Project Title: MACHINE LEARNING MODEL IMPLEMENTATION
 
 ### Project Overview
 
